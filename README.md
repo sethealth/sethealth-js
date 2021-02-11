@@ -1,4 +1,4 @@
-# Sethealth JS
+# Sethealths
 
 While key components are not open source yet, we encourage you to use Github to report issues with the software and have open discussions.
 
@@ -27,4 +27,6 @@ We also have a public Discord Community, where you can find the Sethealth Team a
 - [Docs](https://docs.set.health)
 - [Demos](https://sethealth.app)
 - [Main site](https://set.health)
-
+- [Sethealth Go](https://github.com/sethealth/sethealth-go)
+- [Sethealth Python](https://github.com/sethealth/sethealth-python)
+- [Sethealth .NET](https://github.com/sethealth/sethealth-dotnet)
