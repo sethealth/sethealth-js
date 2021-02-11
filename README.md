@@ -1,4 +1,4 @@
-# Sethealths
+# Sethealth
 
 While key components are not open source yet, we encourage you to use Github to report issues with the software and have open discussions.
 
